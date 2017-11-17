@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <opencv2/opencv.hpp>
 #include "ETF.h"
+#include <cmath>
 
 using namespace std;
 
-#define M_PI 3.14159265358979323846
 #define SIGMA_RATIO 1.6 
 #define STEPSIZE 1.0
 

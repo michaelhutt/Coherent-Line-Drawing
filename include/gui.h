@@ -1,3 +1,5 @@
+#define _WCHAR_H_CPLUSPLUS_98_CONFORMANCE_ 1
+
 #include "CLD.h"
 #include "postProcessing.h"
 #include <wx/wxprec.h>
